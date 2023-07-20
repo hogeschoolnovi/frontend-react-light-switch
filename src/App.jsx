@@ -9,7 +9,9 @@ function App() {
         <main className={light === true ? 'on' : "off"}>
             <section>
                 <div className="dot"></div>
-                <button type="button" onClick={() => toggleLight(!light)} >Turn on/off</button>
+                <button type="button" onClick={() => toggleLight(!light)}>
+                    {light === false ? 'Turn on' : 'Turn off'}
+                </button>
             </section>
         </main>
     );
