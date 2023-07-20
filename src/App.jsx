@@ -6,7 +6,7 @@ function App() {
     console.log(light)
 
     return (
-        <main className="off">
+        <main className={light === true ? 'on' : "off"}>
             <section>
                 <div className="dot"></div>
                 <button type="button" onClick={() => toggleLight(!light)} >Turn on/off</button>
