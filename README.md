@@ -23,7 +23,7 @@ Wanneer dit klaar is, kun je de applicatie starten met behulp van:
 npm run dev
 ```
 
-... of gebruik de WebStorm knop (npm start). Open http://localhost:3000 om de pagina in de browser te bekijken. Begin met
+... of gebruik de WebStorm knop (npm start). Open http://localhost:5173 om de pagina in de browser te bekijken. Begin met
 het maken van wijzigingen in `src/App.js`: elke keer als je een bestand opslaat, zullen de wijzigingen te zien zijn op
 de webpagina.
 
