@@ -4,7 +4,7 @@
 
 Je gaat ervoor zorgen dat de gebruiker het licht van deze applicatie aan- en uit kan zetten. Dit ga je doen door gebruik te maken van State. Bovendien zal de gebruiker straks direct kunnen zien wanneer het licht aan of uit staat, door het gebruik van conditionele styling.
 
-![screenshot](../../Downloads/frontend-react-light-switch-cra-master/frontend-react-light-switch-cra-master/src/assets/screenshot.png)
+![screenshot](src/assets/screenshot.png)
 
 Het project is opgezet met [Vite](https://vitejs.dev/).
 
